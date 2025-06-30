@@ -1,0 +1,2288 @@
+[
+  {
+    "Unnamed: 0":"Int #",
+    "# of charges":"Name",
+    "Number of receipts received  before statement":"last 4 card#",
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":200,
+    "# of charges":"Scott Waren",
+    "Number of receipts received  before statement":8265,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":14,
+    "Number of receipts received  before statement":9,
+    "Number of receipts requested":5.0,
+    "Additional Received":1.0,
+    "Still Missing":4,
+    "Notes":"Emailed 2\/14, 3\/5, 3\/17 to Liz,  received the 1 receipt 3\/18, SW replied on 3\/18 but that was for the Feb receipts no reply for the January"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":35,
+    "Number of receipts received  before statement":19,
+    "Number of receipts requested":16.0,
+    "Additional Received":4.0,
+    "Still Missing":14,
+    "Notes":"Emailed 3\/13 rec 1 3\/18, 1 from VR 3\/25, 2 5\/7and a note regarding remaing receipt. Scott was tossing receipt once he emailed from his phone, but Emails were not getting though in Cabo. I asked if he still had them on his phone, Never responded with receipts or an answer. "
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":20,
+    "Number of receipts received  before statement":8,
+    "Number of receipts requested":12.0,
+    "Additional Received":11.0,
+    "Still Missing":1,
+    "Notes":"Emailed 4\/23 rec 8 from VR 4\/25 3 from Scott "
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":13,
+    "Number of receipts received  before statement":6,
+    "Number of receipts requested":7.0,
+    "Additional Received":3.0,
+    "Still Missing":4,
+    "Notes":"Emailed 5\/7 rec 1 from VR 5\/7, 2 from sw 5\/7"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":24,
+    "Number of receipts received  before statement":10,
+    "Number of receipts requested":14.0,
+    "Additional Received":6.0,
+    "Still Missing":8,
+    "Notes":"Emailed 6\/16 11:08am, 6\/24 3:42. 1discrepancy in amount. The receipts I have received came from Victoria"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":" ",
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":" ",
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":" ",
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":" ",
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":201,
+    "# of charges":"Phil Drost ",
+    "Number of receipts received  before statement":9373,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":1,
+    "Number of receipts received  before statement":1,
+    "Number of receipts requested":0.0,
+    "Additional Received":null,
+    "Still Missing":0,
+    "Notes":"-"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":7,
+    "Number of receipts received  before statement":7,
+    "Number of receipts requested":0.0,
+    "Additional Received":null,
+    "Still Missing":0,
+    "Notes":"-"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":8,
+    "Number of receipts received  before statement":7,
+    "Number of receipts requested":1.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"Emailed 4\/23 Not a vaild receipt but explained this was a Hotel Hold that was canceled"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":6,
+    "Number of receipts received  before statement":4,
+    "Number of receipts requested":2.0,
+    "Additional Received":2.0,
+    "Still Missing":0,
+    "Notes":"Emailed 5\/7 Received 5\/8"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":31,
+    "Number of receipts received  before statement":18,
+    "Number of receipts requested":13.0,
+    "Additional Received":13.0,
+    "Still Missing":0,
+    "Notes":"Emailed Jun 16 10:44AM, Some of the receipts received orginaly were to blurry for the human eye to read( computer could read so it did't reject it.) Received the last of the missing receipts on 6\/24"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":202,
+    "# of charges":"Paul Coran",
+    "Number of receipts received  before statement":2349,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":2,
+    "Number of receipts received  before statement":1,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"Constant Contact Receipt, monthly reaccuring"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":7,
+    "Number of receipts received  before statement":5,
+    "Number of receipts requested":2.0,
+    "Additional Received":0.0,
+    "Still Missing":2,
+    "Notes":"Sent email 3\/13 3\/18 received note explaining the charges"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":17,
+    "Number of receipts received  before statement":13,
+    "Number of receipts requested":4.0,
+    "Additional Received":0.0,
+    "Still Missing":4,
+    "Notes":"Sent email 4\/23, 4\/29 received note explaining the charges"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":12,
+    "Number of receipts received  before statement":12,
+    "Number of receipts requested":1.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":"4\/28 Penndel Ministry Reg 15.00 on stmnt. Receipt hand written with amt $30.00"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":14,
+    "Number of receipts received  before statement":14,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":204,
+    "# of charges":"Peter Joudry",
+    "Number of receipts received  before statement":8107,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":18,
+    "Number of receipts received  before statement":18,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":10,
+    "Number of receipts received  before statement":5,
+    "Number of receipts requested":5.0,
+    "Additional Received":4.0,
+    "Still Missing":0,
+    "Notes":"2\/14 Rest a Los Cab 1227.05 (USD 60.22)  received note on 3\/17"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":9,
+    "Number of receipts received  before statement":5,
+    "Number of receipts requested":4.0,
+    "Additional Received":4.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":14,
+    "Number of receipts received  before statement":14,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":53,
+    "Number of receipts received  before statement":50,
+    "Number of receipts requested":3.0,
+    "Additional Received":3.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":205,
+    "# of charges":"Doug Barker",
+    "Number of receipts received  before statement":3040,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":23,
+    "Number of receipts received  before statement":18,
+    "Number of receipts requested":5.0,
+    "Additional Received":4.0,
+    "Still Missing":0,
+    "Notes":"Five Guys 2\/2 $34.26 Used Card in error Reimburse on 2\/26\/25"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":10,
+    "Number of receipts received  before statement":10,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":23,
+    "Number of receipts received  before statement":23,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":14,
+    "Number of receipts received  before statement":12,
+    "Number of receipts requested":2.0,
+    "Additional Received":2.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":26,
+    "Number of receipts received  before statement":26,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":208,
+    "# of charges":"Tom Poulin",
+    "Number of receipts received  before statement":3732,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":2,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":8,
+    "Number of receipts received  before statement":4,
+    "Number of receipts requested":4.0,
+    "Additional Received":3.0,
+    "Still Missing":1,
+    "Notes":"2\/11 Proshop Solmar Golf  $79-Noted-Club Rental's -no receipt"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":14,
+    "Number of receipts received  before statement":8,
+    "Number of receipts requested":6.0,
+    "Additional Received":3.0,
+    "Still Missing":3,
+    "Notes":"Emailed, 4\/23 and 5\/5 Remaining 3 receipts were noted."
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":1,
+    "Number of receipts received  before statement":1,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":6,
+    "Number of receipts received  before statement":6,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":209,
+    "# of charges":"Justin Fennell",
+    "Number of receipts received  before statement":6952,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":7,
+    "Number of receipts received  before statement":6,
+    "Number of receipts requested":1.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"Emailed 2\/14 No response, spoke to him in Dec, he was having trouble getting the receipt"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":0,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":"No charges for February"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":2,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":10,
+    "Number of receipts received  before statement":10,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":2,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":210,
+    "# of charges":"Jason Doran",
+    "Number of receipts received  before statement":7109,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":3,
+    "Number of receipts received  before statement":3,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":26,
+    "Number of receipts received  before statement":1,
+    "Number of receipts requested":25.0,
+    "Additional Received":24.0,
+    "Still Missing":1,
+    "Notes":"3\/2 Golfnow Reservation 5.39 Emailed 3\/13, 3\/17 Received Receipts and Note for this one on 3\/18"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":2,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":2.0,
+    "Additional Received":2.0,
+    "Still Missing":0,
+    "Notes":"Emailed 4\/23 and 5\/5 Received 1 receipt on 4\/23, the other on 5\/6"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":11,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":11.0,
+    "Additional Received":10.0,
+    "Still Missing":0,
+    "Notes":"Emailed 5\/7 and 5\/13 received 5\/14"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":8,
+    "Number of receipts received  before statement":6,
+    "Number of receipts requested":2.0,
+    "Additional Received":1.0,
+    "Still Missing":1,
+    "Notes":"Emailed 6\/16 Received a receipt and a note for 5\/6 Airport park 68.00"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":211,
+    "# of charges":"Max Zradovskyy",
+    "Number of receipts received  before statement":4577,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":0,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":3,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":1.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"Emailed on 3\/13,  received 3\/24 2\/13 Hotel Hacienda Del Mar $47.82 no receipt City tax maybe"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":4,
+    "Number of receipts received  before statement":3,
+    "Number of receipts requested":1.0,
+    "Additional Received":1.0,
+    "Still Missing":0,
+    "Notes":"Emailed 4\/23, received 4\/30"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":6,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":6.0,
+    "Additional Received":6.0,
+    "Still Missing":0,
+    "Notes":"Emailed 5\/7 received 5\/9"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":34,
+    "Number of receipts received  before statement":23,
+    "Number of receipts requested":11.0,
+    "Additional Received":0.0,
+    "Still Missing":11,
+    "Notes":"Emailed 6\/16 and 6\/25 "
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":212,
+    "# of charges":"Elliott Godwin",
+    "Number of receipts received  before statement":1172,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":7,
+    "Number of receipts received  before statement":7,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":26,
+    "Number of receipts received  before statement":25,
+    "Number of receipts requested":1.0,
+    "Additional Received":1.0,
+    "Still Missing":0,
+    "Notes":"Emailed 3\/13 "
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":23,
+    "Number of receipts received  before statement":21,
+    "Number of receipts requested":2.0,
+    "Additional Received":0.0,
+    "Still Missing":2,
+    "Notes":"Hand Delivered statement 4\/23? Received email with notes on missing receipts 4\/29"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":25,
+    "Number of receipts received  before statement":22,
+    "Number of receipts requested":3.0,
+    "Additional Received":2.0,
+    "Still Missing":1,
+    "Notes":"Noted Google Cloud 5\/1 reaccuring software fee"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":13,
+    "Number of receipts received  before statement":7,
+    "Number of receipts requested":6.0,
+    "Additional Received":3.0,
+    "Still Missing":3,
+    "Notes":"Emailed 6\/16, 6\/18 and 6\/25"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":300,
+    "# of charges":"Ryan Moore",
+    "Number of receipts received  before statement":4039,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":31,
+    "Number of receipts received  before statement":18,
+    "Number of receipts requested":7.0,
+    "Additional Received":3.0,
+    "Still Missing":4,
+    "Notes":"6 receipts were reccuring software, I didn\u2019t request receipts for Emailed 2\/13"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":29,
+    "Number of receipts received  before statement":16,
+    "Number of receipts requested":6.0,
+    "Additional Received":2.0,
+    "Still Missing":4,
+    "Notes":"4missing receipts noted, 9 recurring software chgs didn't request"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":40,
+    "Number of receipts received  before statement":30,
+    "Number of receipts requested":8.0,
+    "Additional Received":1.0,
+    "Still Missing":1,
+    "Notes":"3 missing noted, 2 were price diff chrg vs receipts and 1 was cc fee 4 recur sw"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":13,
+    "Number of receipts received  before statement":8,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":4,
+    "Notes":"4 missing receipts were recurring Software Emailed 5\/8, replied with note 5\/12"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":33,
+    "Number of receipts received  before statement":25,
+    "Number of receipts requested":3.0,
+    "Additional Received":0.0,
+    "Still Missing":3,
+    "Notes":"5 recurring software charges"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":301,
+    "# of charges":"Jeremy Godwin",
+    "Number of receipts received  before statement":783,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":40,
+    "Number of receipts received  before statement":32,
+    "Number of receipts requested":6.0,
+    "Additional Received":6.0,
+    "Still Missing":2,
+    "Notes":"2 recurring software charge"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":56,
+    "Number of receipts received  before statement":45,
+    "Number of receipts requested":11.0,
+    "Additional Received":3.0,
+    "Still Missing":9,
+    "Notes":"8 missing receipts noted, 1 recurring software charge"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":39,
+    "Number of receipts received  before statement":25,
+    "Number of receipts requested":13.0,
+    "Additional Received":8.0,
+    "Still Missing":7,
+    "Notes":"missing receipts noted, 1 recurring software charge"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":33,
+    "Number of receipts received  before statement":29,
+    "Number of receipts requested":5.0,
+    "Additional Received":2.0,
+    "Still Missing":4,
+    "Notes":"3 missing receipts noted, 1 recurring software charge"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":38,
+    "Number of receipts received  before statement":32,
+    "Number of receipts requested":5.0,
+    "Additional Received":4.0,
+    "Still Missing":1,
+    "Notes":"1 recurring Software chrg not requested, missing receipt was noted, Email sent 6\/16, responded 6\/16"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":302,
+    "# of charges":"Larry Russell",
+    "Number of receipts received  before statement":559,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":11,
+    "Number of receipts received  before statement":9,
+    "Number of receipts requested":1.0,
+    "Additional Received":1.0,
+    "Still Missing":1,
+    "Notes":"Software credit "
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":14,
+    "Number of receipts received  before statement":12,
+    "Number of receipts requested":2.0,
+    "Additional Received":2.0,
+    "Still Missing":0,
+    "Notes":"Missing receipts were for TOH deposit- JH"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":8,
+    "Number of receipts received  before statement":6,
+    "Number of receipts requested":2.0,
+    "Additional Received":2.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":38,
+    "Number of receipts received  before statement":38,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":5,
+    "Number of receipts received  before statement":5,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":303,
+    "# of charges":"Jonathan Hukill",
+    "Number of receipts received  before statement":4157,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":3,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"recurring software charge"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":12,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":10.0,
+    "Additional Received":8.0,
+    "Still Missing":2,
+    "Notes":"Missing receipts noted."
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":3,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":1.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"recurring software charge"
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":12,
+    "Number of receipts received  before statement":4,
+    "Number of receipts requested":8.0,
+    "Additional Received":5.0,
+    "Still Missing":3,
+    "Notes":"Missing receipts noted."
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":3,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"recurring software charge"
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":304,
+    "# of charges":"Jimmy Sellars",
+    "Number of receipts received  before statement":9580,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":28,
+    "Number of receipts received  before statement":15,
+    "Number of receipts requested":13.0,
+    "Additional Received":10.0,
+    "Still Missing":4,
+    "Notes":"Emailed 2\/13"
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":7,
+    "Number of receipts received  before statement":6,
+    "Number of receipts requested":1.0,
+    "Additional Received":0.0,
+    "Still Missing":1,
+    "Notes":"Emailed 3\/13 "
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":0,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":5,
+    "Number of receipts received  before statement":4,
+    "Number of receipts requested":1.0,
+    "Additional Received":1.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":0,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":308,
+    "# of charges":"Laci Moore",
+    "Number of receipts received  before statement":"6762\/ 8138",
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":62,
+    "Number of receipts received  before statement":50,
+    "Number of receipts requested":12.0,
+    "Additional Received":11.0,
+    "Still Missing":1,
+    "Notes":"Missing receipt noted. Emailed.2\/13 "
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":32,
+    "Number of receipts received  before statement":11,
+    "Number of receipts requested":21.0,
+    "Additional Received":1.0,
+    "Still Missing":20,
+    "Notes":"Fraud Charges card stolen in Cabo"
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":46,
+    "Number of receipts received  before statement":18,
+    "Number of receipts requested":28.0,
+    "Additional Received":5.0,
+    "Still Missing":23,
+    "Notes":"17 fraud, and 6 TOH test pmts, "
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":36,
+    "Number of receipts received  before statement":21,
+    "Number of receipts requested":15.0,
+    "Additional Received":11.0,
+    "Still Missing":4,
+    "Notes":"3 missing receipts are VK reimbursement, used wrong card, 1 unknown Charge"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":22,
+    "Number of receipts received  before statement":10,
+    "Number of receipts requested":12.0,
+    "Additional Received":10.0,
+    "Still Missing":2,
+    "Notes":"Missing receipts noted. Emailed. 6\/16 "
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":null,
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":310,
+    "# of charges":"Liz Turner",
+    "Number of receipts received  before statement":3397,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"January",
+    "# of charges":2,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"February",
+    "# of charges":8,
+    "Number of receipts received  before statement":5,
+    "Number of receipts requested":3.0,
+    "Additional Received":3.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"March",
+    "# of charges":0,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":0.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"April",
+    "# of charges":5,
+    "Number of receipts received  before statement":0,
+    "Number of receipts requested":5.0,
+    "Additional Received":0.0,
+    "Still Missing":0,
+    "Notes":"getting credit for Microsoft, 3 are fraud and no receipt for the LaLa Land Kind Caf\u00e9"
+  },
+  {
+    "Unnamed: 0":"May",
+    "# of charges":5,
+    "Number of receipts received  before statement":2,
+    "Number of receipts requested":3.0,
+    "Additional Received":0.0,
+    "Still Missing":3,
+    "Notes":"3 Fraud credits from April  "
+  },
+  {
+    "Unnamed: 0":"June",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"July",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"August",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"September",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"October",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"November",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  },
+  {
+    "Unnamed: 0":"December",
+    "# of charges":null,
+    "Number of receipts received  before statement":null,
+    "Number of receipts requested":null,
+    "Additional Received":null,
+    "Still Missing":null,
+    "Notes":null
+  }
+]
