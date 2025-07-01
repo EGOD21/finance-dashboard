@@ -49,6 +49,7 @@ export default function Dashboard() {
   const [selectedPerson, setSelectedPerson] = useState<PersonData | null>(null);
   const [editingId, setEditingId] = useState<number | null>(null);
   const [editData, setEditData] = useState<MonthlyData | null>(null);
+  const [showLeaderboard, setShowLeaderboard] = useState<boolean>(false);
 
   useEffect(() => {
     fetch('/all_people_data.json')
@@ -131,10 +132,135 @@ export default function Dashboard() {
     setEditData(null);
   };
 
+  const calculateCompletionScore = (personData: PersonData) => {
+    const activeMonths = personData.monthly_data.filter(month => month.charges > 0);
+    if (activeMonths.length === 0) return 0;
+    
+    const totalReceived = activeMonths.reduce((sum, month) => sum + month.receipts_received_before_statement, 0);
+    const totalMissing = activeMonths.reduce((sum, month) => sum + month.still_missing, 0);
+    const total = totalReceived + totalMissing;
+    
+    return total > 0 ? Math.round((totalReceived / total) * 100) : 0;
+  };
+
+  const getLeaderboardData = () => {
+    return allPeopleData
+      .map(person => ({
+        ...person,
+        completionScore: calculateCompletionScore(person)
+      }))
+      .sort((a, b) => b.completionScore - a.completionScore)
+      .map((person, index) => ({
+        ...person,
+        rank: index + 1
+      }));
+  };
+
   return (
     <div className="min-h-screen bg-gray-100 p-8">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-3xl font-bold text-gray-900 mb-8">Credit Card Receipt Dashboard</h1>
+        <div className="flex justify-between items-center mb-8">
+          <h1 className="text-3xl font-bold text-gray-900">Credit Card Receipt Dashboard</h1>
+          <button
+            onClick={() => setShowLeaderboard(!showLeaderboard)}
+            className="px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors"
+          >
+            {showLeaderboard ? 'Hide Leaderboard' : 'Show Leaderboard'}
+          </button>
+        </div>
+
+        {/* Leaderboard */}
+        {showLeaderboard && (
+          <div className="bg-white rounded-lg shadow mb-8">
+            <div className="px-6 py-4 border-b border-gray-200">
+              <h2 className="text-xl font-semibold">Receipt Completion Leaderboard</h2>
+            </div>
+            <div className="overflow-x-auto">
+              <table className="min-w-full divide-y divide-gray-200">
+                <thead className="bg-gray-50">
+                  <tr>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Rank</th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Employee</th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Card Last 4</th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Completion Score</th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Active Months</th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Total Receipts Received</th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Still Missing</th>
+                  </tr>
+                </thead>
+                <tbody className="bg-white divide-y divide-gray-200">
+                  {getLeaderboardData().map((person) => {
+                    const activeMonths = person.monthly_data.filter(month => month.charges > 0);
+                    const totalReceived = activeMonths.reduce((sum, month) => sum + month.receipts_received_before_statement, 0);
+                    const totalMissing = activeMonths.reduce((sum, month) => sum + month.still_missing, 0);
+                    
+                    return (
+                      <tr key={person.person_info.internal_id} className="hover:bg-gray-50">
+                        <td className="px-6 py-4 whitespace-nowrap">
+                          <div className="flex items-center">
+                            <span className={`inline-flex items-center justify-center w-8 h-8 rounded-full text-sm font-bold ${
+                              person.rank === 1 ? 'bg-yellow-100 text-yellow-800' :
+                              person.rank === 2 ? 'bg-gray-100 text-gray-800' :
+                              person.rank === 3 ? 'bg-orange-100 text-orange-800' :
+                              'bg-blue-100 text-blue-800'
+                            }`}>
+                              {person.rank}
+                            </span>
+                            {person.rank <= 3 && (
+                              <span className="ml-2">
+                                {person.rank === 1 ? '🥇' : person.rank === 2 ? '🥈' : '🥉'}
+                              </span>
+                            )}
+                          </div>
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                          {person.person_info.name}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                          *{person.person_info.card_last_4}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap">
+                          <div className="flex items-center">
+                            <span className={`text-2xl font-bold ${
+                              person.completionScore >= 90 ? 'text-green-600' :
+                              person.completionScore >= 70 ? 'text-yellow-600' :
+                              'text-red-600'
+                            }`}>
+                              {person.completionScore}%
+                            </span>
+                            <div className="ml-3 w-16 bg-gray-200 rounded-full h-2">
+                              <div
+                                className={`h-2 rounded-full ${
+                                  person.completionScore >= 90 ? 'bg-green-600' :
+                                  person.completionScore >= 70 ? 'bg-yellow-600' :
+                                  'bg-red-600'
+                                }`}
+                                style={{ width: `${person.completionScore}%` }}
+                              ></div>
+                            </div>
+                          </div>
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                          {activeMonths.length}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                          {totalReceived}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap">
+                          <span className={`px-2 py-1 rounded-full text-xs ${
+                            totalMissing === 0 ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+                          }`}>
+                            {totalMissing}
+                          </span>
+                        </td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        )}
         
         {/* Person Selector */}
         <div className="mb-8">
