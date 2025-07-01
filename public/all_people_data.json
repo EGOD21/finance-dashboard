@@ -1,0 +1,1991 @@
+[
+  {
+    "person_info": {
+      "internal_id": 200,
+      "name": "Scott Waren",
+      "card_last_4": "8265"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 14,
+        "receipts_received_before_statement": 9,
+        "receipts_requested": 5,
+        "additional_received": 1,
+        "still_missing": 4,
+        "notes": "Emailed 2/14, 3/5, 3/17 to Liz,  received the 1 receipt 3/18, SW replied on 3/18 but that was for the Feb receipts no reply for the January"
+      },
+      {
+        "month": "February",
+        "charges": 35,
+        "receipts_received_before_statement": 19,
+        "receipts_requested": 16,
+        "additional_received": 4,
+        "still_missing": 14,
+        "notes": "Emailed 3/13 rec 1 3/18, 1 from VR 3/25, 2 5/7and a note regarding remaing receipt. Scott was tossing receipt once he emailed from his phone, but Emails were not getting though in Cabo. I asked if he still had them on his phone, Never responded with receipts or an answer. "
+      },
+      {
+        "month": "March",
+        "charges": 20,
+        "receipts_received_before_statement": 8,
+        "receipts_requested": 12,
+        "additional_received": 11,
+        "still_missing": 1,
+        "notes": "Emailed 4/23 rec 8 from VR 4/25 3 from Scott "
+      },
+      {
+        "month": "April",
+        "charges": 13,
+        "receipts_received_before_statement": 6,
+        "receipts_requested": 7,
+        "additional_received": 3,
+        "still_missing": 4,
+        "notes": "Emailed 5/7 rec 1 from VR 5/7, 2 from sw 5/7"
+      },
+      {
+        "month": "May",
+        "charges": 24,
+        "receipts_received_before_statement": 10,
+        "receipts_requested": 14,
+        "additional_received": 6,
+        "still_missing": 8,
+        "notes": "Emailed 6/16 11:08am, 6/24 3:42. 1discrepancy in amount. The receipts I have received came from Victoria"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 201,
+      "name": "Phil Drost ",
+      "card_last_4": "9373"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 1,
+        "receipts_received_before_statement": 1,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": "-"
+      },
+      {
+        "month": "February",
+        "charges": 7,
+        "receipts_received_before_statement": 7,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": "-"
+      },
+      {
+        "month": "March",
+        "charges": 8,
+        "receipts_received_before_statement": 7,
+        "receipts_requested": 1,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "Emailed 4/23 Not a vaild receipt but explained this was a Hotel Hold that was canceled"
+      },
+      {
+        "month": "April",
+        "charges": 6,
+        "receipts_received_before_statement": 4,
+        "receipts_requested": 2,
+        "additional_received": 2,
+        "still_missing": 0,
+        "notes": "Emailed 5/7 Received 5/8"
+      },
+      {
+        "month": "May",
+        "charges": 31,
+        "receipts_received_before_statement": 18,
+        "receipts_requested": 13,
+        "additional_received": 13,
+        "still_missing": 0,
+        "notes": "Emailed Jun 16 10:44AM, Some of the receipts received orginaly were to blurry for the human eye to read( computer could read so it did't reject it.) Received the last of the missing receipts on 6/24"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 202,
+      "name": "Paul Coran",
+      "card_last_4": "2349"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 2,
+        "receipts_received_before_statement": 1,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "Constant Contact Receipt, monthly reaccuring"
+      },
+      {
+        "month": "February",
+        "charges": 7,
+        "receipts_received_before_statement": 5,
+        "receipts_requested": 2,
+        "additional_received": 0,
+        "still_missing": 2,
+        "notes": "Sent email 3/13 3/18 received note explaining the charges"
+      },
+      {
+        "month": "March",
+        "charges": 17,
+        "receipts_received_before_statement": 13,
+        "receipts_requested": 4,
+        "additional_received": 0,
+        "still_missing": 4,
+        "notes": "Sent email 4/23, 4/29 received note explaining the charges"
+      },
+      {
+        "month": "April",
+        "charges": 12,
+        "receipts_received_before_statement": 12,
+        "receipts_requested": 1,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": "4/28 Penndel Ministry Reg 15.00 on stmnt. Receipt hand written with amt $30.00"
+      },
+      {
+        "month": "May",
+        "charges": 14,
+        "receipts_received_before_statement": 14,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 204,
+      "name": "Peter Joudry",
+      "card_last_4": "8107"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 18,
+        "receipts_received_before_statement": 18,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "February",
+        "charges": 10,
+        "receipts_received_before_statement": 5,
+        "receipts_requested": 5,
+        "additional_received": 4,
+        "still_missing": 0,
+        "notes": "2/14 Rest a Los Cab 1227.05 (USD 60.22)  received note on 3/17"
+      },
+      {
+        "month": "March",
+        "charges": 9,
+        "receipts_received_before_statement": 5,
+        "receipts_requested": 4,
+        "additional_received": 4,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "April",
+        "charges": 14,
+        "receipts_received_before_statement": 14,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "May",
+        "charges": 53,
+        "receipts_received_before_statement": 50,
+        "receipts_requested": 3,
+        "additional_received": 3,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 205,
+      "name": "Doug Barker",
+      "card_last_4": "3040"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 23,
+        "receipts_received_before_statement": 18,
+        "receipts_requested": 5,
+        "additional_received": 4,
+        "still_missing": 0,
+        "notes": "Five Guys 2/2 $34.26 Used Card in error Reimburse on 2/26/25"
+      },
+      {
+        "month": "February",
+        "charges": 10,
+        "receipts_received_before_statement": 10,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "March",
+        "charges": 23,
+        "receipts_received_before_statement": 23,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "April",
+        "charges": 14,
+        "receipts_received_before_statement": 12,
+        "receipts_requested": 2,
+        "additional_received": 2,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "May",
+        "charges": 26,
+        "receipts_received_before_statement": 26,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 208,
+      "name": "Tom Poulin",
+      "card_last_4": "3732"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 2,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "February",
+        "charges": 8,
+        "receipts_received_before_statement": 4,
+        "receipts_requested": 4,
+        "additional_received": 3,
+        "still_missing": 1,
+        "notes": "2/11 Proshop Solmar Golf  $79-Noted-Club Rental's -no receipt"
+      },
+      {
+        "month": "March",
+        "charges": 14,
+        "receipts_received_before_statement": 8,
+        "receipts_requested": 6,
+        "additional_received": 3,
+        "still_missing": 3,
+        "notes": "Emailed, 4/23 and 5/5 Remaining 3 receipts were noted."
+      },
+      {
+        "month": "April",
+        "charges": 1,
+        "receipts_received_before_statement": 1,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "May",
+        "charges": 6,
+        "receipts_received_before_statement": 6,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 209,
+      "name": "Justin Fennell",
+      "card_last_4": "6952"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 7,
+        "receipts_received_before_statement": 6,
+        "receipts_requested": 1,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "Emailed 2/14 No response, spoke to him in Dec, he was having trouble getting the receipt"
+      },
+      {
+        "month": "February",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": "No charges for February"
+      },
+      {
+        "month": "March",
+        "charges": 2,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "April",
+        "charges": 10,
+        "receipts_received_before_statement": 10,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "May",
+        "charges": 2,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 210,
+      "name": "Jason Doran",
+      "card_last_4": "7109"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 3,
+        "receipts_received_before_statement": 3,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "February",
+        "charges": 26,
+        "receipts_received_before_statement": 1,
+        "receipts_requested": 25,
+        "additional_received": 24,
+        "still_missing": 1,
+        "notes": "3/2 Golfnow Reservation 5.39 Emailed 3/13, 3/17 Received Receipts and Note for this one on 3/18"
+      },
+      {
+        "month": "March",
+        "charges": 2,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 2,
+        "additional_received": 2,
+        "still_missing": 0,
+        "notes": "Emailed 4/23 and 5/5 Received 1 receipt on 4/23, the other on 5/6"
+      },
+      {
+        "month": "April",
+        "charges": 11,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 11,
+        "additional_received": 10,
+        "still_missing": 0,
+        "notes": "Emailed 5/7 and 5/13 received 5/14"
+      },
+      {
+        "month": "May",
+        "charges": 8,
+        "receipts_received_before_statement": 6,
+        "receipts_requested": 2,
+        "additional_received": 1,
+        "still_missing": 1,
+        "notes": "Emailed 6/16 Received a receipt and a note for 5/6 Airport park 68.00"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 211,
+      "name": "Max Zradovskyy",
+      "card_last_4": "4577"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "February",
+        "charges": 3,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 1,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "Emailed on 3/13,  received 3/24 2/13 Hotel Hacienda Del Mar $47.82 no receipt City tax maybe"
+      },
+      {
+        "month": "March",
+        "charges": 4,
+        "receipts_received_before_statement": 3,
+        "receipts_requested": 1,
+        "additional_received": 1,
+        "still_missing": 0,
+        "notes": "Emailed 4/23, received 4/30"
+      },
+      {
+        "month": "April",
+        "charges": 6,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 6,
+        "additional_received": 6,
+        "still_missing": 0,
+        "notes": "Emailed 5/7 received 5/9"
+      },
+      {
+        "month": "May",
+        "charges": 34,
+        "receipts_received_before_statement": 23,
+        "receipts_requested": 11,
+        "additional_received": 0,
+        "still_missing": 11,
+        "notes": "Emailed 6/16 and 6/25 "
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 212,
+      "name": "Elliott Godwin",
+      "card_last_4": "1172"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 7,
+        "receipts_received_before_statement": 7,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "February",
+        "charges": 26,
+        "receipts_received_before_statement": 25,
+        "receipts_requested": 1,
+        "additional_received": 1,
+        "still_missing": 0,
+        "notes": "Emailed 3/13 "
+      },
+      {
+        "month": "March",
+        "charges": 23,
+        "receipts_received_before_statement": 21,
+        "receipts_requested": 2,
+        "additional_received": 0,
+        "still_missing": 2,
+        "notes": "Hand Delivered statement 4/23? Received email with notes on missing receipts 4/29"
+      },
+      {
+        "month": "April",
+        "charges": 25,
+        "receipts_received_before_statement": 22,
+        "receipts_requested": 3,
+        "additional_received": 2,
+        "still_missing": 1,
+        "notes": "Noted Google Cloud 5/1 reaccuring software fee"
+      },
+      {
+        "month": "May",
+        "charges": 13,
+        "receipts_received_before_statement": 7,
+        "receipts_requested": 6,
+        "additional_received": 3,
+        "still_missing": 3,
+        "notes": "Emailed 6/16, 6/18 and 6/25"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 300,
+      "name": "Ryan Moore",
+      "card_last_4": "4039"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 31,
+        "receipts_received_before_statement": 18,
+        "receipts_requested": 7,
+        "additional_received": 3,
+        "still_missing": 4,
+        "notes": "6 receipts were reccuring software, I didn\u2019t request receipts for Emailed 2/13"
+      },
+      {
+        "month": "February",
+        "charges": 29,
+        "receipts_received_before_statement": 16,
+        "receipts_requested": 6,
+        "additional_received": 2,
+        "still_missing": 4,
+        "notes": "4missing receipts noted, 9 recurring software chgs didn't request"
+      },
+      {
+        "month": "March",
+        "charges": 40,
+        "receipts_received_before_statement": 30,
+        "receipts_requested": 8,
+        "additional_received": 1,
+        "still_missing": 1,
+        "notes": "3 missing noted, 2 were price diff chrg vs receipts and 1 was cc fee 4 recur sw"
+      },
+      {
+        "month": "April",
+        "charges": 13,
+        "receipts_received_before_statement": 8,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 4,
+        "notes": "4 missing receipts were recurring Software Emailed 5/8, replied with note 5/12"
+      },
+      {
+        "month": "May",
+        "charges": 33,
+        "receipts_received_before_statement": 25,
+        "receipts_requested": 3,
+        "additional_received": 0,
+        "still_missing": 3,
+        "notes": "5 recurring software charges"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 301,
+      "name": "Jeremy Godwin",
+      "card_last_4": "783"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 40,
+        "receipts_received_before_statement": 32,
+        "receipts_requested": 6,
+        "additional_received": 6,
+        "still_missing": 2,
+        "notes": "2 recurring software charge"
+      },
+      {
+        "month": "February",
+        "charges": 56,
+        "receipts_received_before_statement": 45,
+        "receipts_requested": 11,
+        "additional_received": 3,
+        "still_missing": 9,
+        "notes": "8 missing receipts noted, 1 recurring software charge"
+      },
+      {
+        "month": "March",
+        "charges": 39,
+        "receipts_received_before_statement": 25,
+        "receipts_requested": 13,
+        "additional_received": 8,
+        "still_missing": 7,
+        "notes": "missing receipts noted, 1 recurring software charge"
+      },
+      {
+        "month": "April",
+        "charges": 33,
+        "receipts_received_before_statement": 29,
+        "receipts_requested": 5,
+        "additional_received": 2,
+        "still_missing": 4,
+        "notes": "3 missing receipts noted, 1 recurring software charge"
+      },
+      {
+        "month": "May",
+        "charges": 38,
+        "receipts_received_before_statement": 32,
+        "receipts_requested": 5,
+        "additional_received": 4,
+        "still_missing": 1,
+        "notes": "1 recurring Software chrg not requested, missing receipt was noted, Email sent 6/16, responded 6/16"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 302,
+      "name": "Larry Russell",
+      "card_last_4": "559"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 11,
+        "receipts_received_before_statement": 9,
+        "receipts_requested": 1,
+        "additional_received": 1,
+        "still_missing": 1,
+        "notes": "Software credit "
+      },
+      {
+        "month": "February",
+        "charges": 14,
+        "receipts_received_before_statement": 12,
+        "receipts_requested": 2,
+        "additional_received": 2,
+        "still_missing": 0,
+        "notes": "Missing receipts were for TOH deposit- JH"
+      },
+      {
+        "month": "March",
+        "charges": 8,
+        "receipts_received_before_statement": 6,
+        "receipts_requested": 2,
+        "additional_received": 2,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "April",
+        "charges": 38,
+        "receipts_received_before_statement": 38,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "May",
+        "charges": 5,
+        "receipts_received_before_statement": 5,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 303,
+      "name": "Jonathan Hukill",
+      "card_last_4": "4157"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 3,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "recurring software charge"
+      },
+      {
+        "month": "February",
+        "charges": 12,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 10,
+        "additional_received": 8,
+        "still_missing": 2,
+        "notes": "Missing receipts noted."
+      },
+      {
+        "month": "March",
+        "charges": 3,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 1,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "recurring software charge"
+      },
+      {
+        "month": "April",
+        "charges": 12,
+        "receipts_received_before_statement": 4,
+        "receipts_requested": 8,
+        "additional_received": 5,
+        "still_missing": 3,
+        "notes": "Missing receipts noted."
+      },
+      {
+        "month": "May",
+        "charges": 3,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "recurring software charge"
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 304,
+      "name": "Jimmy Sellars",
+      "card_last_4": "9580"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 28,
+        "receipts_received_before_statement": 15,
+        "receipts_requested": 13,
+        "additional_received": 10,
+        "still_missing": 4,
+        "notes": "Emailed 2/13"
+      },
+      {
+        "month": "February",
+        "charges": 7,
+        "receipts_received_before_statement": 6,
+        "receipts_requested": 1,
+        "additional_received": 0,
+        "still_missing": 1,
+        "notes": "Emailed 3/13 "
+      },
+      {
+        "month": "March",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "April",
+        "charges": 5,
+        "receipts_received_before_statement": 4,
+        "receipts_requested": 1,
+        "additional_received": 1,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "May",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 308,
+      "name": "Laci Moore",
+      "card_last_4": "6762"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 62,
+        "receipts_received_before_statement": 50,
+        "receipts_requested": 12,
+        "additional_received": 11,
+        "still_missing": 1,
+        "notes": "Missing receipt noted. Emailed.2/13 "
+      },
+      {
+        "month": "February",
+        "charges": 32,
+        "receipts_received_before_statement": 11,
+        "receipts_requested": 21,
+        "additional_received": 1,
+        "still_missing": 20,
+        "notes": "Fraud Charges card stolen in Cabo"
+      },
+      {
+        "month": "March",
+        "charges": 46,
+        "receipts_received_before_statement": 18,
+        "receipts_requested": 28,
+        "additional_received": 5,
+        "still_missing": 23,
+        "notes": "17 fraud, and 6 TOH test pmts, "
+      },
+      {
+        "month": "April",
+        "charges": 36,
+        "receipts_received_before_statement": 21,
+        "receipts_requested": 15,
+        "additional_received": 11,
+        "still_missing": 4,
+        "notes": "3 missing receipts are VK reimbursement, used wrong card, 1 unknown Charge"
+      },
+      {
+        "month": "May",
+        "charges": 22,
+        "receipts_received_before_statement": 10,
+        "receipts_requested": 12,
+        "additional_received": 10,
+        "still_missing": 2,
+        "notes": "Missing receipts noted. Emailed. 6/16 "
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "person_info": {
+      "internal_id": 310,
+      "name": "Liz Turner",
+      "card_last_4": "3397"
+    },
+    "monthly_data": [
+      {
+        "month": "January",
+        "charges": 2,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "February",
+        "charges": 8,
+        "receipts_received_before_statement": 5,
+        "receipts_requested": 3,
+        "additional_received": 3,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "March",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "April",
+        "charges": 5,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 5,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": "getting credit for Microsoft, 3 are fraud and no receipt for the LaLa Land Kind Caf\u00e9"
+      },
+      {
+        "month": "May",
+        "charges": 5,
+        "receipts_received_before_statement": 2,
+        "receipts_requested": 3,
+        "additional_received": 0,
+        "still_missing": 3,
+        "notes": "3 Fraud credits from April  "
+      },
+      {
+        "month": "June",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "July",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "August",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "September",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "October",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "November",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      },
+      {
+        "month": "December",
+        "charges": 0,
+        "receipts_received_before_statement": 0,
+        "receipts_requested": 0,
+        "additional_received": 0,
+        "still_missing": 0,
+        "notes": ""
+      }
+    ]
+  }
+]
